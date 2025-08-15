@@ -51,12 +51,19 @@ I chose to incorporate responsiveness through the use of Bootstrap's breakpoints
 <img width="819" height="271" alt="image" src="https://github.com/user-attachments/assets/f2b20749-a5f3-40ed-9fd7-85988cd118e7" />
 
 # Features
-## Existing features
+# Existing features
+## Navigation
+The navigation was made using Bootstrap's responsive navbar as the base, further customising it to fit the website's color scheme and style.
 ## Header
+(Describe styling used and how it links to other sections on the website)
 ## About
+The about section shows an image of the band and describes the band. It also shows the band members individually and gives a description for each of them.
 ## Music 
+The music section has a carousel where the user can watch music videos, being able to click through the carousel at their own pace.
 ## Booking form
+The booking form leads to a (dummied) success page.
 ## Footer
+(Describe styling)
 # Technologies Used
 
 - [Bootstrap Version 5.3](https://getbootstrap.com/) for (features that used bootstrap go here)
