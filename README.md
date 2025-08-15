@@ -8,6 +8,15 @@ A website for a band developed for a milestone project.
 - Find out when the band's next live shows are
   
 # User Stories
+
+(Initial ideas for user stories)
+
+As a potential fan, I want to find information about the band and its members.
+As a fan or potential fan, I want to be able to see some of the band's music videos and songs.
+As a potential concert-goer, I want to be able to book tickets to see the band.
+As a user, I want navigation to be easy and intuitive.
+As a user, I want the website to be accessible and responsive across multiple devices.
+
 # Website goals/objectives
 
 - Allow users to book tickets for the band
@@ -64,6 +73,13 @@ I chose to incorporate responsiveness through the use of Bootstrap's breakpoints
 ## Responsiveness testing
 # Deployment
 ## Deploying project
+
+The project was deployed very early on through the use of GitHub Pages. This can be done via:
+- Going to the repository and clicking on Settings.
+- From there, find "Pages" in the navigation.
+- Find the dropdown that shows "none", click on it and select "main"
+- Click save. The website is now live [here](https://yakisoba-bun.github.io/leo-need-website)
+
 ## Forking project
 ## Cloning project
 # Credits
