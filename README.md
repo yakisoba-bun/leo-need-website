@@ -11,11 +11,11 @@ A website for a band developed for a milestone project.
 
 (Initial ideas for user stories)
 
-As a potential fan, I want to find information about the band and its members.
-As a fan or potential fan, I want to be able to see some of the band's music videos and songs.
-As a potential concert-goer, I want to be able to book tickets to see the band.
-As a user, I want navigation to be easy and intuitive.
-As a user, I want the website to be accessible and responsive across multiple devices.
+- As a potential fan, I want to find information about the band and its members.
+- As a fan or potential fan, I want to be able to see some of the band's music videos and songs.
+- As a potential concert-goer, I want to be able to book tickets to see the band.
+- As a user, I want navigation to be easy and intuitive.
+- As a user, I want the website to be accessible and responsive across multiple devices.
 
 # Website goals/objectives
 
