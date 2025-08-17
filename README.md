@@ -21,6 +21,7 @@ A website for a band developed for a milestone project.
 
 - Allow users to book tickets for the band
 - Provide information to both fans and potential fans about the band and its members
+- Allow users to watch the band's music videos
   
 # Wireframes
 
