@@ -25,7 +25,21 @@ A website for a band developed for a milestone project.
   
 # Wireframes
 
-(Insert wireframe images here)
+Wireframes for this website were made using [Balsamiq](https://balsamiq.com/), which made it easier to plan the design for the website with functionality across multiple devices in mind. I first prioritised designing the website for mobile in line with the principle of mobile-first design, as it helps to make the website accessible and allowed me to scale up the website for larger screen sizes easier.
+
+<details>
+  <summary>**Wireframe for mobile version of website**</summary> 
+<img width="576" height="3221" alt="Image of a wireframe of the website" src="https://github.com/user-attachments/assets/dfab9fcd-55c9-462b-b8a8-9fac0d728585" />
+</details>
+
+<details>
+  <summary>**Wireframe for tablet/laptop version of website</summary>
+</details>
+
+<details>
+  <summary>**Wireframe for desktop version of website**</summary>
+</details>
+
 
 # Design choices
 ## Typography
