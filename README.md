@@ -6,6 +6,7 @@ A website for a band developed for a milestone project.
 - To be able to book tickets to see the band live
 - To find out more information about the band
 - Find out when the band's next live shows are
+- To watch music videos from the band
   
 # User Stories
 
